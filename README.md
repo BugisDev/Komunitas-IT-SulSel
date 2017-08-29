@@ -9,11 +9,14 @@ Daftar komunitas / organisasi yang terkait dengan pemrograman / networking / sys
   - [BugisDev](https://bugisdev.com)
 ### C
 ### D
+  - DCC Dipanegara
 ### E
+  - Exomatic
 ### F
 ### G
 ### H
 ### I
+  - [Inready Workgroup](https://www.facebook.com/inreadyworkgroup/)
 ### J
 ### K
   - [Komunitas Programmer Makassar](https://www.facebook.com/groups/1710616582489607/)
