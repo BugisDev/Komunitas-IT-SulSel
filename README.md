@@ -9,9 +9,7 @@ Daftar komunitas / organisasi yang terkait dengan pemrograman / networking / sys
   - [BugisDev](https://bugisdev.com)
 ### C
 ### D
-  - DCC Dipanegara
 ### E
-  - Exomatic
 ### F
 ### G
 ### H
