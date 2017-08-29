@@ -16,6 +16,7 @@ Daftar komunitas / organisasi yang terkait dengan pemrograman / networking / sys
 ### I
 ### J
 ### K
+  - [Komunitas Programmer Makassar](https://www.facebook.com/groups/1710616582489607/)
 ### L
 ### M
 ### N
