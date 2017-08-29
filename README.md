@@ -14,6 +14,7 @@ Daftar komunitas / organisasi yang terkait dengan pemrograman / networking / sys
 ### G
 ### H
 ### I
+  - [ITC SMKN 1 Bulukumba](https://www.instagram.com/itc_smkn1/)
 ### J
 ### K
   - [Komunitas Programmer Makassar](https://www.facebook.com/groups/1710616582489607/)
